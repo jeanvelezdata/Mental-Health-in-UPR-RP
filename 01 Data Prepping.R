@@ -290,7 +290,7 @@ table(rp_data$TECH_ACSS, useNA = "always")
 # for each answer separated by ";"
 
 # Revise test: is this solution what you would like?
-# test <- tidyr::separate(rp_data, 'TECH_ACSS', paste("TECH_ACSS", 1:5, sep="_"), sep=";")
+#test <- tidyr::separate(rp_data, 'TECH_ACSS', paste("TECH_ACSS", 1:5, sep="_"), sep=";")
 
 
 # DIFF_ACSS
@@ -312,7 +312,7 @@ table(rp_data$EDUC_MOD, useNA = "always")
 # for each answer separated by ";"
 
 # Revise test: is this solution what you would like?
-# test <- tidyr::separate(rp_data, 'EDUC_MOD', paste("EDUC_MOD", 1:3, sep="_"), sep=";")
+#test <- tidyr::separate(rp_data, 'EDUC_MOD', paste("EDUC_MOD", 1:3, sep="_"), sep=";")
 
 # PREEX_COND
 table(rp_data$PREEX_COND, useNA = "always")
@@ -881,4 +881,6 @@ summary(rp_data$PSS_CAT)
 # 1) Fix variables with multiple answers (Potentially fixed) 
 #    - Check suggested solution
 # 2) Implement dynamic fix at line 394
+
+# Commit test
 
