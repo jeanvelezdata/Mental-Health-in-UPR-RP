@@ -19,7 +19,7 @@ dataFolder <- file.path("Raw Data")
 # View(rp_data)
 
 # rp_data <- read_excel("E:/Hernandez et al. 2024 Final Paper/Raw Data/Raw_Data_Final_n911_JHT.xlsx")
-rp_data <- read_excel(file.path(dataFolder, "Raw_Data_Final_n911_JHT.xlsx"))
+rp_data <- read_excel(file.path("..",dataFolder, "Raw_Data_Final_n911_JHT.xlsx"))
 View(rp_data)
 
 # Renaming columns for ease of use 
