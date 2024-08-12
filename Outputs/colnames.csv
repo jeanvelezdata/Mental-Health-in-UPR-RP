@@ -1,0 +1,145 @@
+Column Name,Survey Item,Comments
+ID,ID,
+START,Survey start time,
+END,Survey completion time,
+EMAIL,Email,
+NAME,Name,
+CON_COMP_1,Indique abajo si leyó esta sección en su totalidad.,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_2,Indique abajo si leyó esta sección en su totalidad.,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_3,Indique abajo si leyó esta sección en su totalidad.2,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_4,Indique abajo si leyó esta sección en su totalidad.3,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_5,Indique abajo si leyó esta sección en su totalidad.4,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_6,¿De qué trata el estudio?,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_7,¿En cuál Universidad se está llevando a cabo el estudio?,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_8,¿De qué trata el estudio?2,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_9,¿En cuál Universidad se está llevando a cabo el estudio?2,Item used to confirm that person read the section of the consent form corresponding to this item.
+CON_COMP_10,Es usted estudiante activo en el Recinto de Rio Piedras de la Universidad de Puerto Rico?,Item used to confirm that person read the section of the consent form corresponding to this item.
+CONSENT,¿Consiente a participar de este estudio de investigación?,
+SEX,Sexo al nacer,
+GENDER,Género,
+SEX_ORIENT,Orientación sexual,
+AGE,"Edad (Conteste usando digitos solamente e.g. 1,2,3...)",
+HISP_ORIG,"¿Es usted de origen hispano, latino o español?",
+RACE,Raza/Etnicidad,
+MARITAL_STAT,Estado civil,
+MUNIC,Municipio de residencia,
+INCOME_YR,"¿Cuál es el número que mejor se aproxime a su ingreso antes de impuestos en el ultimo año? (Considere todo el dinero obtenido por empleo asalariado, negocio propio, o cualquier otro ingreso)",
+EMPLOY,Actualmente usted se encuentra:,
+OTHR_EMPLOY,"Actualmente, ¿usted tiene más de un empleo?",
+WRK_HRS_WK,¿Cuántas horas a la semana usted trabaja en total?,
+LOST_JOB_CV19,¿Usted ha perdido algún empleo como consecuencia de la pandemia del COVID-19?,
+GOV_ASSIST_,"En los últimos 12 meses, ¿usted ha recibido alguno de los siguientes beneficios del gobierno?",
+ACA_YR,¿En qué año académico usted se encuentra actualmente?,
+CRD_HRS,¿Cuántos créditos usted tiene matriculados actualmente?,
+FACUL,¿A qué facultad/escuela usted pertenece?,
+ACA_LVL,Grado académico que cursa actualmente:,
+GPA_SR,¿Cuál fue su promedio general académico más reciente?,
+UNIV_ECON_AST,¿Usted recibe asistencia económica de parte de la universidad?,
+TECH_ACSS,¿Actualmente tiene acceso a alguno de los siguientes recursos tecnológicos?,
+DIFF_ACSS,¿Ha tenido dificultad accediendo a cualquiera de estos recursos?,"Refers to difficulty having access to things like computers, tablets and other equipment necessary for learning in a virtual enviroment or otherwise"
+PART_DROP,"Durante este año académico, ¿ha tenido que darse de baja parcial durante algún semestre?",
+EDUC_MOD,"Durante este año académico, ¿en cuál modalidad usted ha tomado sus cursos?",
+PREEX_COND,¿Usted padece de alguna de las siguientes condiciones de salud?,
+DEP_HIST,¿Alguna vez ha sido diagnosticado con depresión por un(a) psicólogo(a)/psiquiatra?,
+DEP_TRT,¿Qué modo(s) de tratamiento usted recibe para la depresión?,
+ANX_HIST,¿Alguna vez ha sido diagnosticado(a) con ansiedad por un(a) psicólogo(a)/psiquiatra?,
+ANX_TRT,¿Qué modo(s) de tratamiento usted recibe para la ansiedad?,
+CV19_HIST,¿Usted ha sido diagnosticado(a) con COVID-19 anteriormente?,
+VAX_STAT,¿Usted está vacunado contra el virus del COVID-19?,
+VAX_TYPE,¿Cuál de las vacunas usted se administró?,
+VAX_DOSE,¿Cuántas dosis usted se ha administrado?,
+PHQ1,Poco interés o placer en hacer las cosas,Patient Health Questionnaire 9-items
+PHQ2,"Sentirse desanimado(a), deprimido(a) o desesperanzado(a)",Patient Health Questionnaire 9-items
+PHQ3,"Problemas para dormir o mantenerse dormido(a), o dormir demasiado",Patient Health Questionnaire 9-items
+PHQ4,Sentirse cansado(a) o tener poca energía,Patient Health Questionnaire 9-items
+PHQ5,Poco apetito o comiendo en exceso,Patient Health Questionnaire 9-items
+PHQ6,Sentirse mal acerca de sí mismo(a) — o sentir que es un(a) fracasado(a) o que se ha fallado a sí mismo o a su familia,Patient Health Questionnaire 9-items
+PHQ7,"Dificultad para concentrarse en las cosas, tales como leer el periódico o ver la televisión",Patient Health Questionnaire 9-items
+PHQ8,Moverse o hablar tan despacio que puede que otraspersonas se hayan dado cuenta? O lo opuesto — estartan inquieto(a) o intranquilo(a) que se ha estado moviendomucho más de lo normal,Patient Health Questionnaire 9-items
+PHQ9,Tiene pensamientos de que sería mejor estar muerto(a) o que quisiera lastimarse de alguna forma,Patient Health Questionnaire 9-items
+PHQ_FUNC,"Si marcó cualquier problema, ¿cuán difícil se le ha hecho realizar su trabajo, hacerse cargo de las cosas en la casa o llevarse bien con otras personas, debido a estos problemas?",Additional question assessing impact on daily life functioning due to symptoms of depression 
+GAD1,"Sentirse nervioso(a), ansioso(a), o con los nervios de punta",Generalized Anxiety Disorder 7-items scale
+GAD2,No poder dejar o controlar la preocupación,Generalized Anxiety Disorder 7-items scale
+GAD3,Preocuparse demasiado por cosas diferentes,Generalized Anxiety Disorder 7-items scale
+GAD4,Problemas para relajarse,Generalized Anxiety Disorder 7-items scale
+GAD5,Estar tan inquieto(a) que es difícil permanecer sentado(a) tranquilamente,Generalized Anxiety Disorder 7-items scale
+GAD6,Molestarse o irritarse fácilmente,Generalized Anxiety Disorder 7-items scale
+GAD7,Sentir miedo como si algo terrible pudiera ocurrir,Generalized Anxiety Disorder 7-items scale
+COV1,…pienso que mi calidad de vida es peor que antes.,COVID-19 Impact on Quality of Life Scale
+COV2,…pienso que mi salud mental se ha deteriorado.,COVID-19 Impact on Quality of Life Scale
+COV3,…pienso que mi salud física se ha deteriorado.,COVID-19 Impact on Quality of Life Scale
+COV4,…me siento más tenso(a) que antes.,COVID-19 Impact on Quality of Life Scale
+COV5,…me siento más deprimido(a) que antes.,COVID-19 Impact on Quality of Life Scale
+COV6,…siento que mi seguridad personal está en riesgo.,COVID-19 Impact on Quality of Life Scale
+PSS1,"1. En el último mes, ¿con qué frecuencia ha estado afectado por algo que ha ocurrido inesperadamente?",Perceived Stress Scale 10-items
+PSS2,"2. En el último mes, ¿con qué frecuencia se ha sentido incapaz de controlar las cosas importantes en su vida?",Perceived Stress Scale 10-items
+PSS3,"3. En el último mes, ¿con qué frecuencia se ha sentido nervioso o estresado?",Perceived Stress Scale 10-items
+PSS4,"4. En el último mes, ¿con qué frecuencia ha estado seguro sobre su capacidad para manejar sus problemas personales?",Perceived Stress Scale 10-items
+PSS5,"5. En el último mes, ¿con qué frecuencia ha sentido que las cosas le van bien?",Perceived Stress Scale 10-items
+PSS6,"6. En el último mes, ¿con qué frecuencia ha sentido que no podía afrontar todas las cosas que tenía que hacer?",Perceived Stress Scale 10-items
+PSS7,"7. En el último mes, ¿con qué frecuencia ha podido controlar las dificultades de su vida?",Perceived Stress Scale 10-items
+PSS8,"8. En el ultimo mes, ¿con que frecuencia se ha sentido que tenia todo bajo control?",Perceived Stress Scale 10-items
+PSS9,"9. En el último mes, ¿con qué frecuencia ha estado enfadado porque  las cosas que le han ocurrido estaban fuera de su control?",Perceived Stress Scale 10-items
+PSS10,"10. En el último mes, ¿con qué frecuencia ha sentido que las dificultades se acumulan tanto que no puede superarlas?",Perceived Stress Scale 10-items
+TILS1,¿Con qué frecuencia sientes que te falta compañía?,Three-Item Loneliness Scale
+TILS2,¿Con qué frecuencia te sientes excluido?,Three-Item Loneliness Scale
+TILS3,¿Con qué frecuencia se siente aislado de los demás?,Three-Item Loneliness Scale
+SOC_MED,"¿Acostumbra a usar sus redes sociales? (ej. Facebook, Instagram, Twitter, Tik Tok, Snapchat)",
+SM_TIME_DAY,"Aproximadamente, ¿Cuántas horas al día usted utiliza redes sociales?",
+SM_TIME_WK_YAM,"Aproximadamente, ¿Cuántas horas a la semana usted utiliza redes sociales?",Those variables whose label includes '_YAM' are variables that were later added to the survey to better capture the effects of social media and video games. The first 147 survey responses should be empty (have an NA value)
+SM_REAS,¿Por qué razón principalmente usted utiliza las redes sociales?,
+SM_TIME_DAY_BP,"Aproximadamente, ¿Cuántas horas al día le dedicabas a utilizar las redes sociales antes de la Pandemia?",
+SM_TIME_W_BP_YAM,"Aproximadamente, ¿Cuántas horas a la semana le dedicabas a utilizar las redes sociales antes de la Pandemia?",Those variables whose label includes '_YAM' are variables that were later added to the survey to better capture the effects of social media and video games. The first 147 survey responses should be empty (have an NA value)
+SM_REAS_BP,¿Por qué razón principalmente usted usaba las redes sociales antes de la Pandemia?,
+SM_IMP_QOL,¿Usar sus redes sociales tiene algun impacto en su calidad de vida?,
+VID_GMS,¿Acostumbra a jugar videojuegos?,
+VG_TYPE,¿Qué tipo de videjouegos usted prefiere?,
+VG_VIOL,¿Cuán a menudo usted juega videojuegos que contengan contenido violento?,
+VG_TIME_DAY,"En los días en que usted juega videojuegos, ¿cuántas horas le dedica aproximadamente?",
+VG_TIME_WK_YAM,¿Cuánto tiempo le dedicas a los videojuegos a la semana?,Those variables whose label includes '_YAM' are variables that were later added to the survey to better capture the effects of social media and video games. The first 147 survey responses should be empty (have an NA value)
+VG_TIME_DAY_YAM,¿Cuánto tiempo le dedicas a los videojuegos al día?,Those variables whose label includes '_YAM' are variables that were later added to the survey to better capture the effects of social media and video games. The first 147 survey responses should be empty (have an NA value)
+VG_TIME_WK_DP_YAM,"Durante la cuarentena, ¿Cuánto tiempo le dedicabas a los videojuegos a la semana?",Those variables whose label includes '_YAM' are variables that were later added to the survey to better capture the effects of social media and video games. The first 147 survey responses should be empty (have an NA value)
+VG_TIME_DAY_DP_YAM,"Durante la cuarentena, ¿Cuánto tiempo le dedicabas a los videojuegos al día ?",Those variables whose label includes '_YAM' are variables that were later added to the survey to better capture the effects of social media and video games. The first 147 survey responses should be empty (have an NA value)
+VG_REAS,¿Por qué razón principalmente usted usa videojuegos?,
+VG_TIME_DAY_BP,"Antes de la Pandemia, en los días en que usted usaba videojuegos, ¿cuántas horas le dedicaba?",
+VG_REAS_BP,¿Por qué razón principalmente usted usaba videojuegos antes de la Pandemia?,
+VG_IMP_QOL,¿Jugar videojuegos tiene algun impacto en su calidad de vida?,
+EXER_LAST7,"Durante los últimos 7 días, ¿usted ha realizado algun tipo de actividad física como hacer ejercicio?",
+EXER_DAYS_IN_LAST7,¿Por cuántos días de los últimos 7 días usted hizo ejercicio?,
+EXER_DURAT_MIN,¿Cuántos minutos usted dedicó en cada ocasión en la que hizo ejercicio?,
+SLEEP_HRS,"Aproximadamente, ¿cuántas horas usted usualmente duerme en un período de 24 horas?",
+EAT_OUT,"¿Durante los pasados 7 días, cuántas comidas obtuvo que fueron preparadas fuera de la casa en lugares como restaurantes, establecimientos de comida rápida, puestos de comida (""foodtrucks""), superm...",
+EAT_FRT,"¿Durante los últimos 7 días, en cuántos días usted consumió frutas?",
+EAT_VEG,"¿Durante los últimos 7 días, en cuántos días usted consumió vegetales?",
+ALC,Alcohol,
+ALC_30,¿En cuántos días de los últimos 30 días usted consumió alcohol?,
+NICOT,Nicotina,
+NICOT_TYPE,¿Cuál es su medio de consumo principal (el más que usted utiliza)?,
+NICOT_30,¿En cuántos días de los últimos 30 días usted usó nicotina o productos que contienen nicotina?,
+CANNA,Cannabis/Marihuana,
+CANNA_30,¿En cuántos días de los últimos 30 días usted usó cannabis/marihuana?,
+COCAINE,Cocaína,
+COC_TYPE,¿Cuál de las siguientes opciones usted usa con mayor frecuencia?,
+COC_POWD_30,¿Durante cuántos días de los últimos 30 días usted usó cocaína en polvo?,
+CRACK_30,"¿Durante cuántos días de los últimos 30 días usted usó ""crack""?",
+MED,Medicamentos no-prescritos,
+MED_TYPE,¿Cuál de los tipo de medicamento mencionados anteriormente usted usó con mayor frecuencia?,
+MED_30,¿Durante cuántos días en los últimos 30 días usted usó medicamentos no prescritos o de manera diferente a la que fue recomendada por su médico para “coger nota”?,
+HALUC,Alucinógenos,
+HALUC_TYPE,¿Cuál de los siguientes alucinógenos usted usa con mayor frecuencia?,
+HALUC_30,¿Durante cuántos días en los últimos 30 días usted usó alucinógenos?,
+AGE_CAT,Categorical versin of the AGE variable,
+HISP_ORIG_BIN,Hispanic or not of hispanic origin,
+REGION_RES,Region of Puerto Rico. Created from MUNIC variable,
+ACA_LVL_BI,Either graduate or undergraduate,
+PHQ_9,Total Score,Patient Health Questionnaire 9-items
+COVQoL,Total Score,COVID-19 Impact on Quality of Life Scale
+GAD_7,Total Score,Generalized Anxiety Disorder 7-items scale
+PSS_10,Total Score,Perceived Stress Scale 10-items
+TILS,Total Score,Three-Item Loneliness Scale
+PHQ_CAT,Categorized PHQ_9,
+GAD_CAT,Categorized GAD_7,
+PSS_CAT,Categorized PSS_10,
+TIME,Time to complete survey (minutes),
+PROP_MISS_all,Proportion (or percentage) of missing values per participant,
+CR_ind,Indicates whether a particular participant is considered a careless respondent (CR) or provided low quality responses. ,Criteria for determining CR: TIME < 6.25 min & PROP_MISS_all > 0.2 (or 20%)
